@@ -8,11 +8,7 @@ try:
         '3 - Soyuq Qəlyanaltı':'Ağ pendir 3 azn\nsuzme 3 azn\nbilincikq 1.50'
       
         
-        
-
-
-
-
+    
     }
   
     while True:
